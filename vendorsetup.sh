@@ -17,5 +17,5 @@ rm -rf hardware/xiaomi && git clone --depth=1 https://github.com/LineageOS/andro
 #viperfx
 git clone https://github.com/TogoFire/packages_apps_ViPER4AndroidFX packages/apps/ViPER4AndroidFX
 #test
-git clone -b thirteen https://github.com/ayushqui/vendor_xiaomi_camera.git vendor/xiaomi/camera
+git clone -b thirteen https://github.com/ayushqui/vendor_xiaomi_camera.git vendor/xiaomi/camellia
 
