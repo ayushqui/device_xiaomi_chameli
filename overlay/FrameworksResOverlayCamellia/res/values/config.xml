@@ -68,6 +68,9 @@
          states. -->
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
 
+    <!-- Whether the combined qs shows in status bar when true, the combined qs will not be available if set it to false -->
+    <bool name="flag_combined_qs_headers">false</bool>
+
     <!-- Control whether the always on display mode is enabled by default. This value will be used
          during initialization when the setting is still null. -->
     <bool name="config_dozeAlwaysOnEnabled">false</bool>
