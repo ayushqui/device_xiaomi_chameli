@@ -6,9 +6,9 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_camellia.mk \
-    $(LOCAL_DIR)/lineage_camellia.mk
+    $(LOCAL_DIR)/afterlife_camellia.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_camellia-user \
-    lineage_camellia-userdebug \
-    lineage_camellia-eng \
+    afterlife_camellia-user \
+    afterlife_camellia-userdebug \
+    aftetlife_camellia-eng \
