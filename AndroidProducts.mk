@@ -11,4 +11,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     afterlife_camellia-user \
     afterlife_camellia-userdebug \
-    aftetlife_camellia-eng \
+    afterlife_camellia-eng \
