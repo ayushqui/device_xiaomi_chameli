@@ -16,3 +16,6 @@ rm -rf hardware/xiaomi && git clone --depth=1 https://github.com/LineageOS/andro
 
 #viperfx
 git clone https://github.com/TogoFire/packages_apps_ViPER4AndroidFX packages/apps/ViPER4AndroidFX
+
+#rm
+rm -rf hardware/xiaomi/vibrator/effect/Android.bp
